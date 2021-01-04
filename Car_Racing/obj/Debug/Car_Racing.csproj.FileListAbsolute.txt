@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\bin\Debug\Car_Racing.exe.config
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\bin\Debug\Car_Racing.exe
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\bin\Debug\Car_Racing.pdb
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.GamePlay.resources
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.HighScore.resources
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.Menu.resources
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.Properties.Resources.resources
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.SaveScore.resources
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.exe
+C:\Users\Admin\source\repos\Car_Racing\Car_Racing\obj\Debug\Car_Racing.pdb
