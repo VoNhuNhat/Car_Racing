@@ -36,7 +36,7 @@ namespace Car_Racing
             }
             else
             {
-                if (textBox1.Text.Length>50)
+                if (textBox1.Text.Length > 50)
                 {
                     MessageBox.Show("Tên không được quá 50 ký tự");
                 }
@@ -44,8 +44,8 @@ namespace Car_Racing
                 {
                     string _name = textBox1.Text;
                     db.SaveHighScore(_name, _score);
-                    Menu menu = new Menu();
-                    menu.Show();
+                    HighScore highScore = new HighScore();
+                    highScore.Show();
                     this.Hide();
                 }
             }
